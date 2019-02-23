@@ -30,6 +30,13 @@ include_once('database.php') ?>
 			<br><span>How are you today?</span><br>
 			<a href="logout.php" class="btn btn-danger">Log Out</a>
 			</div>
+			<footer>
+				<div class="row">
+					<div class="container row d-flex flex-row justify-content-center mb-5">
+						Copyright &copy; 2019 &nbsp;<strong>GTM</strong>
+					</div>
+				</div>
+			</footer>
 		</div>
 
 </body>

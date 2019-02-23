@@ -39,6 +39,13 @@
 				</form>
 			</div>
 		</div>
+		<footer>
+				<div class="row">
+					<div class="container row d-flex flex-row justify-content-center mb-5">
+						Copyright &copy; 2019 &nbsp;<strong>GTM</strong>
+					</div>
+				</div>
+		</footer>
 	</div>
 
 </body>
